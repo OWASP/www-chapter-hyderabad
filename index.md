@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP Hyderabad
 site_side: true
