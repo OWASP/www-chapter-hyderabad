@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Hyderabad
 site_side: true
 tags: Hyderabad
-region: ASIA
+region: Asia
 currency: INR
 meetup-group: OWASPHyderabad
 country: INDIA
