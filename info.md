@@ -11,4 +11,3 @@
 
 ### Change Log
 * [Changes](https://github.com/OWASP/www-chapter-hyderabad/commits/master)
-
