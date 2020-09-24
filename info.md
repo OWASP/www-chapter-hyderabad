@@ -6,6 +6,7 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
+* [Meetuo](https://www.meetup.com/hyderabad-owasp-meetup-group/)
 * [Facebook](https://www.facebook.com/OWASPHyderabad)
 * [Twitter](https://twitter.com/OWASPHyderabad)
 
