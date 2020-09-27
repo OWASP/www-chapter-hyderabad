@@ -1,116 +1,15 @@
 ---
-
-layout: col-sidebar
-title: OWASP Hyderabad
-tags: example-tag
-level: 0
-
-region: Asia
+title: Pastevents
+layout:  null
+tab: true
+order:2
+tags: Hyderbad
 
 
----
-Welcome to the OWASP Hyderabad chapter homepage.
-
-## OWASP - Hyderabad Chapter Board Members
-
-Scope of the board is to discuss and approve local activities, meetings
-and plans.The board meetings will be announced at a later date.
-**The board currently includes the following members :**
-
-  - **OWASP Hyderabad chapter: 'Core Team**' (Members since 2017)
-    [Shalem Raj - Cognizant Technology
-    Solutions](mailto:gshalemraj@gmail.com) : Chapter Leader
-    [Rajesh Gopal - Fortune 500
-    Organisation](mailto:rajesh.gopal@owasp.org)
-    [Achanta Sathya Phani Bapi Raju -
-    CSC](mailto:sathya.achanta@owasp.org)
-    [Saikrishna Gobburi - Pramati Technologies Pvt
-    Ltd](mailto:saikrishna.gobburi@owasp.org)
-  - **OWASP Hyderabad chapter: 'Advisory Group**' (Members since
-    Mar-2019)
-
-<!-- end list -->
-
-1.  Vasudeva Aremanda - Genpact
-2.  Riyaz Shaik - FX Labs
-3.  Krishna Chaitanya Suraparaju - Cycops (Founder)
-
-Information about future meets can be seen in the ***Upcoming
-Meetings*** section below.
-
-## **Location Details**
-
-Hyderabad is the capital of southern India's Telangana state. A major
-center for the technology industry, it's home to many upscale
-restaurants and shops. Its historic sites include Golconda Fort, a
-former diamond-trading center that was once the Qutb Shahi dynastic
-capital. The Charminar, a 16th-century mosque whose 4 arches support
-towering minarets, is an old city landmark near the long-standing Laad
-Bazaar.
-
-![Panorama of Hyderabad, as seen from the Hussain Sagar lake. Source:
-<https://en.wikipedia.org/wiki/Hyderabad#/media/File:Hydskyline.jpg>](Hydskyline.jpg
-"Panorama of Hyderabad, as seen from the Hussain Sagar lake. Source: https://en.wikipedia.org/wiki/Hyderabad#/media/File:Hydskyline.jpg")
-
-More details about Hyderabad location available
-@https://en.wikipedia.org/wiki/Hyderabad
-
-## Participants
-
-OWASP Local Chapter meetings are free and open. Our chapter's meetings
-are informal and encourage open discussion of all aspects of application
-security. Anyone in our area interested in web application security is
-welcome to attend. We encourage attendees to give short presentations
-about specific topics.
+## Past Events
+<hr>
 
 
-Stay Updated
-
-**[Click here to join the local chapter mailing
-list](https://lists.owasp.org/mailman/listinfo/owasp-hyderabad)**
-
-**Follow** OWASP Hyderabad on your favorite social media sites:
-
-![Twitter_mini.png](Twitter_mini.png "Twitter_mini.png")
-![Facebook_mini.png](Facebook_mini.png "Facebook_mini.png")
-
-**Share** OWASP Hyderabad on your favorite social media sites:
-
-Presentations are invited from speakers, Please contacts us at our
-Telegram Group @https://goo.gl/EHqdLM
-
-(Don't share personal details like contact numbers here, because its an
-open group, your privacy is our concern)
-
-Presenters are encouraged to use OWASP presentation template for slides
-preparation.
-
-Follow us at our Telegram, Twitter and Facebook handles to get latest
-information \!
-
-## Presentations and Training\[edit | edit source\]
-
-OWASP Track
-
-[Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-
-[Presentation
-Template](https://www.owasp.org/images/b/b3/OWASP_Presentation_Template_v2.zip)
-
-[Call For Papers
-Template](https://www.owasp.org/index.php/Image:CFP_template.doc)
-
-[Call For Training proposal
-template](https://www.owasp.org/images/8/85/OWASP_CFT_Template-1-.doc).
-
-[Training Instructor
-Agreement](http://www.owasp.org/images/4/4b/SAMPLE_Training_Instructor_Agreement.doc)
-
-## **Upcoming Meetings & Events**
-
-*Stay tuned for 2019 updates - Exciting activities are under plan \!*
-
-## [Meeting](Meeting "wikilink") Details:
 
 ## Nov - 2019 - OWASP Day Workshop
 
