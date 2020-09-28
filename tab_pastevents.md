@@ -21,7 +21,7 @@ tags: Hyderbad
 
 **Venue :** **Salesforce India Private Limited** Block 5, DivyaSree
 Orion IT/ITES SEZ Survey 66/1 Panmakhta, Raidurg Village Serilingampally
-Mandal, Ranga Reddy District Hyderabad (Telangana) 500 032 India
+Mandal, Ranga Reddy District Hyderabad 500 032 India
 
 **Registration Link:**
 <https://www.meraevents.com/previewevent?view=preview&eventId=218015>
