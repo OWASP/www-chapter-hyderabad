@@ -46,7 +46,7 @@ restaurants and shops. Its historic sites include Golconda Fort, a
 former diamond-trading center that was once the Qutb Shahi dynastic
 capital. The Charminar, a 16th-century mosque whose 4 arches support
 towering minarets, is an old city landmark near the long-standing Laad
-Bazaar.
+Bazaar
 
 ![Panorama of Hyderabad, as seen from the Hussain Sagar lake. Source:
 <https://en.wikipedia.org/wiki/Hyderabad#/media/File:Hydskyline.jpg>](Hydskyline.jpg
