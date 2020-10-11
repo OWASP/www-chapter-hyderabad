@@ -1,6 +1,6 @@
 ---
 title: Pastevents
-layout:  null
+layout: col-sidebar 
 tab: true
 order:2
 tags: Hyderbad
@@ -8,8 +8,6 @@ tags: Hyderbad
 
 ## Past Events
 <hr>
-
-
 
 ## Nov - 2019 - OWASP Day Workshop
 
