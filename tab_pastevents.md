@@ -1,10 +1,12 @@
 ---
-title: Pastevents
-layout: col-sidebar 
-tab: true
-order:2
-tags: Hyderbad
 
+title: Pastevents
+layout:  null
+tab: true
+order: 2
+tags: Hyderabad
+
+---
 
 ## Past Events
 <hr>
