@@ -10,6 +10,38 @@ tags: Hyderabad
 
 ## Past Events
 <hr>
+##Feb -2020-OWASP Hyderabad Meetup
+
+**Organized** **by** : OWASPHyderabad
+**Date :** **15/Feb/2020**
+**Event :** 10.00 AM to 03.00 PM IST
+**Venue :** **OpsRamp Hyderabad** 
+1st & 4th Floor, Plot No. 20,
+Survey #12, Legend Platinum,
+Kothaguda, Kondapur
+Hyderabad, TS 500084, India
+Phone: 040-48500563, 040-48554949
+
+**Agenda:**
+
+**Strengthening the cybersecurity defences using MITRE Attack Framework**
+About speaker:
+Sartaj is a Security Advisor, Pentester. He has around 8+ experience who is actively  involved with projects including Threat Modelling,Secure SDLC. He is majorly working on Cloud Security with a primary focus on AWS and Azure.
+
+
+**Automate and Exploit multi-step chained attacks for webapplications.**
+About Speaker:
+Aqeel aka Ciph3r00t is a passionate Information Security Analyst with an overall 7+ years of hands-on offensive security experience. He holds OSCP, CEH and Masters' degree in Computer Science & Engineering.
+He specializes in Web, Mobile & Cloud Applicaitons pentesting, Code Reviews and Network Security Testing. He also has been acknowledged by many globally renowned organizations including Apple, Microsoft, Google, SANS Inst, CERT-EU, Dell, SAP, Eset, Intel, LinkedIn, TrendMicro, Amazon, Blackberry, NASA and Department of Defense U.S for reporting security vulnerabilities.
+
+**SaaS Security**
+
+PMV Krishna Reddy is an Information Security Engineer(Level 2) at OpsRamp. He has 6+ years experience in the field of Information Security. He is a Post Graduate from Vels University, Chennai.
+
+Jibin Jacob
+Jibin Jacob is an Application Security Engineer at OpsRamp. He has 2+ years experience in the field of Application Security. He holds a B Tech in Computer Science from Mahatma Gandhi University, Kottayam.
+
+
 
 ## Nov - 2019 - OWASP Day Workshop
 
