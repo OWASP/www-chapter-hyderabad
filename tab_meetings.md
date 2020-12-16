@@ -19,6 +19,32 @@ Please subscribe to OWASP Google Group - hyderabad-chapter@owasp.org
 Please follow OWASP Hyderabad Chapter on Twitter/Facebook/MeetUp/
 
 
+OWASP Hyderabad Chapter December month meetup
+
+We have planned a detail session on Containers and insecure software supplychain by techie and eminent speaker Nataraj G
+
+Natti (Nataraj), currently working as a Cybersecurity Architect for a four letter international bank, specialised in cloud and container security. Have done Masters in the field of information security and would like to consider himself as a huge cybersecurity enthusiast no matter which designation he works in.
+
+You can find Nataraj on Twitter here: https://twitter.com/0xNatti
+
+Topic: Shades of crisis across an insecure software supply chain and the Containers (the new beast in town)
+
+Description: Given the presumed state of Nation state actors conducting supply chain compromise against FireEye and US Govt targets, let's look at what is a software supply chain and what's its significance to enterprise cyber security and application security. Also will focus on what to do as a DevSecOps personnel in order to protect against such attacks and to understand cyber hygiene in this area.
+
+Please join the zoom link below on 20th Dec 2020 (Sunday) in order to attend the sessions.
+Topic: OWASP Hyderabad Chapter Zoom Meeting
+Time: Dec 20 (Sunday), 2020 10:30 AM India
+
+Leaders Zoom Account One is inviting you to a scheduled Zoom meeting.
+
+Topic: OWASP Hyderabad Chapter meet - December
+Time: Dec 20, 2020 10:30 AM India
+
+Join Zoom Meeting
+https://zoom.us/j/99220092583?pwd=N00zdnVTUXhmNWd4a2VteWFoT1EyUT09
+
+
+
 
 OWASP Hyderabad Chapter October month meetup
 
