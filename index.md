@@ -22,8 +22,7 @@ Welcome to the Owasp Hyderabad chapter homepage. The chapter board is <a href="m
 
 ### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hyderabad Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hyderabad Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail: [Hyderabad Leaders](mailto:hyderabad-leaders@owasp.org)
 
-`raj.shalem@owasp.org`
 
 
