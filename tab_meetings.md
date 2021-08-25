@@ -8,7 +8,78 @@ order: 1
 tags: Hyderabad
 
 ---
+##2021 Meetings
 
+## August OWASP Meet
+
+OWASP Hyderabad Chapter August month meetup
+
+The following talks are lined up for the day :
+
+1. Overview of DLT and DeFi Vulnerabities - Dr David Utzke
+
+This session will cover various attack vectors on distributed ledgers and DeFi DApps such as node network, smart contract, and oracle vulnerabilities.
+
+About Dr.David: A consultative thought leader in distributed ledger technology, digital assets, DeFi, Smart City Technology Integration Design, alternative payment systems, and crime prevention.Dr.David Utzke has spent the past 30 years in the digital asset and distributed ledger ecosystem as a researcher, academic, and user.
+
+2. DevSecOps build Failure enablement with Powershell- Mr.Krishna Reddy Padala
+
+About Mr.Krishna Reddy Padala: 12 + years’ of experience with Application Security , Source Code Reviews and Network Vulnerability Assessments and DevSecOps.He is an OSCP, CISM, AWS Security Specialty Certified, Masters in Technology (CSE), Helping companies to secure their data, code and applications with Fortify on Demand. He is currently working as a Technical Solutions Consultant at Micro Focus.
+
+## April OWASP Meet
+
+OWASP Hyderabad Chapter (https://owasp.org/www-chapter-hyderabad/) April 2021 month meetup
+
+
+
+Registration Link : OWASP Hyderabad Chapter Meet - April | Meetup 
+
+
+
+The following talks are lined up for the day :
+
+
+
+1. Often Missed Critical Vulnerabilities - Mr. Sarwar Jahan
+
+
+
+This talk intents to cover the Various Critical Vulnerabilities which are often missed by Internal Security Testers and Developers will be explained. 
+
+There exist many Critical Security flaws which cost the target application/organization a huge amount as well as reputation damage. Explanation of such Critical vulnerabilities and steps on identifying them 
+
+About the speaker: Sarwar Jahan is Associate Manager - Information Security working for Gainsight. He has presented sessions in Owasp security community and Null.
+
+Sarwar works significantly on leading Bug Bounty platforms and also participates in Ethical Hacking community activities 
+
+2. Cloud security, past, present and future - Mr. Prashanth Kumar 
+
+
+The talk is intended to cover the aspects of Cloud Security. Cloud security, past, present and future.
+
+* different security controls
+
+* security and privacy
+
+* Data security
+
+* Different encryption modes cloud offers
+
+* compliance
+
+* finally future security
+
+
+
+About the speaker: Mr. Prashanth Kumar with 17+ years' experience in IT. Started my carrier as developer and then moved onto different roles such as Technical Lead & Technical architect. Holds different Microsoft/ Citrix certifications along with trained "Microsoft certified trainer"
+
+
+
+Currently associated with Fortune 100 Global retailer giant as Cloud Architect/Bigdata Lead, focusing more on Microsoft Azure and Google Cloud comprises of Network, architecture, security, compliance etc.
+
+
+
+Also provides consulting and conducts web sessions for tech community primarily on Microsoft Azure
 ## 2020 Meetings
 OWASP Hyderabad Chapter meetings are posted on our MeetUp Page:
 
