@@ -8,143 +8,78 @@ order: 1
 tags: Hyderabad
 
 ---
-##2021 Meetings
+##2024 Meetings
 
-## August OWASP Meet
-
-OWASP Hyderabad Chapter August month meetup
-
-The following talks are lined up for the day :
-
-1. Overview of DLT and DeFi Vulnerabities - Dr David Utzke
-
-This session will cover various attack vectors on distributed ledgers and DeFi DApps such as node network, smart contract, and oracle vulnerabilities.
-
-About Dr.David: A consultative thought leader in distributed ledger technology, digital assets, DeFi, Smart City Technology Integration Design, alternative payment systems, and crime prevention.Dr.David Utzke has spent the past 30 years in the digital asset and distributed ledger ecosystem as a researcher, academic, and user.
-
-2. DevSecOps build Failure enablement with Powershell- Mr.Krishna Reddy Padala
-
-About Mr.Krishna Reddy Padala: 12 + years’ of experience with Application Security , Source Code Reviews and Network Vulnerability Assessments and DevSecOps.He is an OSCP, CISM, AWS Security Specialty Certified, Masters in Technology (CSE), Helping companies to secure their data, code and applications with Fortify on Demand. He is currently working as a Technical Solutions Consultant at Micro Focus.
-
-## April OWASP Meet
-
-OWASP Hyderabad Chapter (https://owasp.org/www-chapter-hyderabad/) April 2021 month meetup
-
-
-
-Registration Link : OWASP Hyderabad Chapter Meet - April | Meetup 
-
-
-
-The following talks are lined up for the day :
-
-
-
-1. Often Missed Critical Vulnerabilities - Mr. Sarwar Jahan
-
-
-
-This talk intents to cover the Various Critical Vulnerabilities which are often missed by Internal Security Testers and Developers will be explained. 
-
-There exist many Critical Security flaws which cost the target application/organization a huge amount as well as reputation damage. Explanation of such Critical vulnerabilities and steps on identifying them 
-
-About the speaker: Sarwar Jahan is Associate Manager - Information Security working for Gainsight. He has presented sessions in Owasp security community and Null.
-
-Sarwar works significantly on leading Bug Bounty platforms and also participates in Ethical Hacking community activities 
-
-2. Cloud security, past, present and future - Mr. Prashanth Kumar 
-
-
-The talk is intended to cover the aspects of Cloud Security. Cloud security, past, present and future.
-
-* different security controls
-
-* security and privacy
-
-* Data security
-
-* Different encryption modes cloud offers
-
-* compliance
-
-* finally future security
-
-
-
-About the speaker: Mr. Prashanth Kumar with 17+ years' experience in IT. Started my carrier as developer and then moved onto different roles such as Technical Lead & Technical architect. Holds different Microsoft/ Citrix certifications along with trained "Microsoft certified trainer"
-
-
-
-Currently associated with Fortune 100 Global retailer giant as Cloud Architect/Bigdata Lead, focusing more on Microsoft Azure and Google Cloud comprises of Network, architecture, security, compliance etc.
-
-
-
-Also provides consulting and conducts web sessions for tech community primarily on Microsoft Azure
-## 2020 Meetings
-OWASP Hyderabad Chapter meetings are posted on our MeetUp Page:
-
-Please visit http://www.meetup.com/hyderabad-owasp-meetup-group for all chapter event information.
-
-Please subscribe to OWASP Google Group - hyderabad-chapter@owasp.org
-
-Please follow OWASP Hyderabad Chapter on Twitter/Facebook/MeetUp/
-
-
-OWASP Hyderabad Chapter December month meetup
-
-We have planned a detail session on Containers and insecure software supplychain by techie and eminent speaker Nataraj G
-
-Natti (Nataraj), currently working as a Cybersecurity Architect for a four letter international bank, specialised in cloud and container security. Have done Masters in the field of information security and would like to consider himself as a huge cybersecurity enthusiast no matter which designation he works in.
-
-You can find Nataraj on Twitter here: https://twitter.com/0xNatti
-
-Topic: Shades of crisis across an insecure software supply chain and the Containers (the new beast in town)
-
-Description: Given the presumed state of Nation state actors conducting supply chain compromise against FireEye and US Govt targets, let's look at what is a software supply chain and what's its significance to enterprise cyber security and application security. Also will focus on what to do as a DevSecOps personnel in order to protect against such attacks and to understand cyber hygiene in this area.
-
-Please join the zoom link below on 20th Dec 2020 (Sunday) in order to attend the sessions.
-Topic: OWASP Hyderabad Chapter Zoom Meeting
-Time: Dec 20 (Sunday), 2020 10:30 AM India
-
-Leaders Zoom Account One is inviting you to a scheduled Zoom meeting.
-
-Topic: OWASP Hyderabad Chapter meet - December
-Time: Dec 20, 2020 10:30 AM India
-
-Join Zoom Meeting
-https://zoom.us/j/99220092583?pwd=N00zdnVTUXhmNWd4a2VteWFoT1EyUT09
-
-
-
+## October OWASP Meet
 
 OWASP Hyderabad Chapter October month meetup
 
-The following talks are lined up for the day :
+We are excited to invite you to the upcoming OWASP Hyderabad Local Chapter Meeting in collaboration with ORBCOMM .
+This event is going to be an on-campus event bringing together cybersecurity enthusiasts, professionals, and experts to discuss the latest trends, best practices, and advancements in Application security.
+Event Details: Date: 5th Oct 2024
+Time: Starts at 10:00 am IST
+Location:
+ORBCOMM,The Platina, Banjara Basthi, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032
+Agenda Highlights:
 
-1. Cyber Threats in IoT architecture - Mr. B.Vinod Babu
+9:30 AM to 10:00AM -Check-in for the registered persons for the meetup at ORBCOMM office
+10:00AM to 10:10 AM -Keynote address and welcome by Owasp core team
+10:15AM to 10:30AM -Keynote address by ORBCOMM leadership team.
+10:30AM to 11:30AM- Session 1
+Introduction to DevSecops and Container security
+Saikrishna Gobburi Co Chapter lead for OWASP Hyderabad has around 13 years of experience on Devops / SRE and Secops practices.
 
-This talk intents to cover the intricacies of exploitations in network architecture of IoT and intents to cover the aspects of OWASP Top Ten vulnerabilities in brief a manner.
-Through this presentation the speaker shall try to address the aspects of monitoring & testing of IoT, recent exploits, some case studies, remediations and security by design aspects of IoT.
+Break/Networking
+11:45AM to 12:45PM - Session 2
+Exploiting XXE and Remediation
+SM Krishna Reddy Padala is a Principal Cloud Security Consultant with OpenText has 15+ years of experience on Application Security,Penetration Testing and also an Certified OSCP Professional .
 
-About the speaker: Mr.Vinod Babu is a cyber security specialist , speaker, trainer and researcher with expertise on a variety of subject matters covering Cyber Security, Automobiles, IoT, Avionics, ICS, VOIP,Blockchain and cyber investigations.
+12:45PM to 13:00PM Q&A and closing notes
+Our guest speakers and facilitators are industry specialists who will share their insights, experiences, and knowledge to help you stay updated on the latest security practices and vulnerabilities.
 
-2. How to Achieve Zero Trusts approach in cloud security - Mr. Sravan Kumar Dhikonda
+## August OWASP Meet
 
-The talk is intended to cover the aspects of how Zero trust approach can be achieved in Cloud Security.
+We are excited to invite you to the upcoming OWASP Hyderabad Local Chapter Meeting in collaboration with OpenText.
+This event is going to be an on-campus event bringing together cybersecurity enthusiasts, professionals, and experts to discuss the latest trends, best practices, and advancements in Appsec.
+Event Details: Date: 10th Aug 2024
+Time: Starts at 10:00 am IST
+Location:
+Unit No. 301, 3rd Floor, Building 14, Mind Space IT Park, HITEC City, Madhapur, Hyderabad, Telanagana 500081
+Agenda Highlights:
 
-About the speaker: Mr. Sravan Kumar Dhikonda is a cyber security professional with 13 years of experience encompassing Application security, Network security, Cloud and Devops with exposure to architecting technical solutions for both private and public cloud architecture. An effective leader in delivering business goals , he currently works for Acuity Knowledge Partners.
+9:30 AM to 10:00AM -Check-in for the registered persons for the meetup at OpenText Campus
+10:00AM to 10:10 AM -Keynote address and welcome by Owasp core team
+10:15AM to 10:30AM -Keynote address by OpenText leadership team.
+10:30AM to 11:30AM- Session 1
+AI / LLM Pentesting OWASP top 10 risks for AI/LLM by Sai dutt Mekala (Opentext).
+Sai is an Application Security Enthusiast with a diverse skill set and deep interests in various facets of cybersecurity like network, cloud and AI/LLM. His expertise includes Secure Code Review , DAST, Threat Modelling, Penetration Testing, Supply chain security etc. His regular routine is recommending effective remediation's to development teams, conducting thorough research on CVEs, performing architecture reviews, and implementing robust dependency scanning practices.
+Also, a part time bug bounty hunter on HackerOne with 75+ valid submissions to multiple organizations
 
-3. Advanced Threat Hunting using Azure Sentinel - Mr. Sartaj Ahmed Sheik
+Break/Networking
+11:45AM to 12:45PM - Session 2
+Security and Privacy by Design – A practical guide for Healthcare Domain by Bidesh (Innominds)
 
-The talk tries to cover the aspects of using Azure Sentinel which is a cloud native SIEM built-in with AI to analyse large volumes of data across an Enterprise. He would be covering the investigative, proactive approaches to anomalies detected and some of the key features of Azure Sentinel components.
+12:45PM to 13:00PM Q&A and closing notes
+Our guest speakers and facilitators are industry specialists who will share their insights, experiences, and knowledge to help you stay updated on the latest security practices and vulnerabilities.
 
-About the Speaker: Sartaj Ahmed Shaik is a Cyber Security enthusiast and a Security Advisor.He is a Microsoft Certified Trainer.His areas of interests are Cloud Security,DevSecOps and Blue Teaming.He is
-also an active volunteer for NULLCON and Defcon-Blue Team Village.
+## February OWASP Meet
 
-Please join the zoom link below on 24th Oct 2020 in order to attend the sessions.
-Topic: OWASP Hyderabad Chapter Zoom Meeting
-Time: Oct 24, 2020 10:00 AM India
+Welcome and Intro
+OWASP Team
+Topic by Expert : Mobile Security Framework - MobSF
+MobSF is an automated mobile application security testing environment designed to help security engineers, researchers, developers, and penetration testers to identify security vulnerabilities, malicious behaviors and privacy concerns in mobile applications using static and dynamic analysis. It supports all the popular mobile application binaries and source code formats built for Android and iOS devices. In addition to automated security assessment, it also offers an interactive testing environment to build and execute scenario based test/fuzz cases against the application. Ajin will cover the following in this session
+Walk through of the latest Static Analysis features
+Brand new MobSF iOS Dynamic Analyzer
+Analyzing and Defeating an Android ransomware at Runtime
+Solving Mobile app CTF challenges
+Adding MobSF to your CI/CD pipeline
+Speaker Profile:
 
-Join Zoom Meeting
-https://zoom.us/j/94915951607?pwd=YUdJWmxGQzlSTlltcVdkRFd5ajFTZz09
-
+A expert on Computer Security, Applied Security Research and Author of some of the well known open source security tools like
+Mobile Security Framework - MobSF, an automated pentesting platform for mobile applications
+OWASP Xenotix XSS Exploit Framework, an advanced cross site scripting detection and exploitation framework
+Droid Application Fuzz Framework, an android browser
+pdf fuzzing framework
+nodejsscan, a semantic aware SAST for Node.js web applications
+A special mention for OWASP Xenotix and MobSF by Ajin has been among the Top 10 Security tools by ToolsWatch for the years 2013, 2014, 2016 and 2017.
+He has been a regular in publishing of security research at notable security conferences around the globe including BlackHat Europe, BlackHat Asia, Hack In the Box, OWASP AppSec AsiaPac, OWASP AppSec EU, Nullcon, ClubHack, Sacon, c0c0n, Ground Zero Summit, Hack In Paris, and PHDays.
