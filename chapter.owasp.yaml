@@ -1,0 +1,32 @@
+community:
+  - name: chapter-hyderabad
+    platform: slack
+    url: https://owasp.slack.com/archives/C7GJWJGTX
+    description: OWASP Hyderabad chapter
+currency: INR
+leaders:
+  - name: Raj Shalem
+    email: raj.shalem@owasp.org
+  - name: Sai Krishna
+    email: saikrishna.gobburi@owasp.org
+    github: saikrishnagobburi
+  - name: Rajesh Gopal
+    email: rajesh.gopal@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Telangana
+  city: Hyderabad
+  latitude: 17.360589
+  longitude: 78.4740613
+meetup_group: hyderabad-owasp-meetup-group
+name: OWASP Hyderabad
+repositories:
+  - name: www-chapter-hyderabad
+    url: https://github.com/OWASP/www-chapter-hyderabad
+    description: OWASP Foundation Web Repository
+tags:
+  - Hyderabad
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-hyderabad
